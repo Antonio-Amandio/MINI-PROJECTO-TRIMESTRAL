@@ -1,6 +1,6 @@
 DESCRIÇÃO EM PORTUGUÊS 🌍
 
-# MINI-PROJECTO-TRIMESTRAL
+# MINI PROJECTO TRIMESTRAL
  Programa de gestão de conta bancária. Projecto escolar e trimestral desenvolvido por António Amândio.
 
 - Como testar este projecto:
@@ -10,7 +10,7 @@ DESCRIÇÃO EM PORTUGUÊS 🌍
 
 DESCRIPTION IN ENGLISH 🌍
 
-# QUARTERLY-MINI-PROJECT
+# QUARTERLY MINI PROJECT
  Bank account management program. School and quarterly project developed by António Amândio.
 
 - How to test this project:
