@@ -3,5 +3,5 @@
 
 Como testar este projecto:
 
- - Para testar este projecto precisa baixar e instalar o software MinGW no computador e também precisa baixar e instalar uma
-   IDE ou compilador para executar o ficheiro "MINI-PROJECTO-TRIMESTRAL.c"
+ - Para testar este projecto precisará baixar e instalar o software "MinGW" no computador e também precisará baixar e instalar uma
+   IDE ou compilador Como o "Dev-C++" para executar o ficheiro "MINI-PROJECTO-TRIMESTRAL.c"
