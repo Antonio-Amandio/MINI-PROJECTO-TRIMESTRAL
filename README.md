@@ -10,7 +10,7 @@ Descrição em Português 🌍
 
 Description in English 🌍
 
-# QUARTERLY MINI-PROJECT
+# QUARTERLY-MINI-PROJECT
  Bank account management program. School and quarterly project developed by António Amândio.
 
  How to test this project:
